@@ -11,6 +11,10 @@ A Flutter Package awesome_gradiant_font provide gradient color applied font
 
 awesome_gradiant_font is basically an improved gradient text package so you can just use as an AwesomeGradiantFont widget.
 
+
+
+<img src="https://github.com/WhiteOrange/awesome_gradiant_font/assets/162456479/8390b5d0-d217-4c64-8bb9-945d8ef77f9d" alt="device-2024-03-07-165746" height="150">
+
 ## Usage
 
 ```flutter
