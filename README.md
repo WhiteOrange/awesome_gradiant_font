@@ -3,7 +3,7 @@
 A Flutter Package awesome_gradiant_font provide gradient color applied font
 
 [![Flutter Package](https://img.shields.io/pub/v/awesome_gradiant_font.svg)](https://pub.dev/packages/awesome_gradiant_font)
-![](https://github.com/hnvn/awesome_gradiant_font/workflows/unit%20test/badge.svg)
+![](https://github.com/hnvn/flutter_shimmer/workflows/unit%20test/badge.svg)
 [![Pub Points](https://img.shields.io/pub/points/awesome_gradiant_font)](https://pub.dev/packages/awesome_gradiant_font/score)
 [![Popularity](https://img.shields.io/pub/popularity/awesome_gradiant_font)](https://pub.dev/packages/awesome_gradiant_font/score)
 
