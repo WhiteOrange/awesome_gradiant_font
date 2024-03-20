@@ -10,7 +10,7 @@ class AwesomeGradiantFont extends StatelessWidget {
     /// The [Text] widget to display.
     /// this is text
     /// is used to description
-    this.text, {
+    this.text, {super.key,
     /// The colors the gradient should obtain at each of the stops.
     ///
     /// If [stops] is non-null, this list must have the same length as [stops].
